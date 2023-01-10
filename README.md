@@ -1,1 +1,1 @@
-C Programing repository
+Static Libraries in C
